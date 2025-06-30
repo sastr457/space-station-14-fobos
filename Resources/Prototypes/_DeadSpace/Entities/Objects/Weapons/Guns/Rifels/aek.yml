@@ -5,14 +5,14 @@
   description: Советский автомат, который выдают высокопоставленным членам гражданской милиции. Разработан в 2683 году Станиславом.И.К.
   components:
   - type: Sprite
-    sprite: _DeadSpace/Objects/Weapons/Guns/Rifels/abakan.rsi
+    sprite: _DeadSpace/Objects/Weapons/Guns/Rifels/aek.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _DeadSpace/Objects/Weapons/Guns/Rifels/abakan.rsi
+    sprite: _DeadSpace/Objects/Weapons/Guns/Rifels/aek.rsi
     quickEquip: false
     slots:
     - Back
